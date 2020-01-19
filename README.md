@@ -28,5 +28,6 @@ Bibliotecas utilizadas no FrontEnd no Mobile com a Plataforma React Native:
 - **Google Maps**: React Native Maps
 - **Real Time:** Socket.io
 
+![Projeto](./PROJECT.jpg)
 
 Exemplos seguidos utilizando a Semana OmniStack #10 da **@RocketSeat.**
