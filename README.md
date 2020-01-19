@@ -4,7 +4,7 @@ Stack JavaScritp para BackEnd, FrontEnd e Mobile
 
 ### Do projeto
 
-O projeto apresentado é um Radar de desenvolvedores onde é feito todo o cadastro e apresentação da lista de desenvolvedores, e no aplicativo ele faz a apresentação com base na coordenada do mapa.
+O projeto apresentado é um Radar de desenvolvedores onde é feito cadastro, apresentação da lista de desenvolvedores. No aplicativo mobile é feita a apresentação dos desenvolvedores com base na coordenada do mapa e suas tecnologias.
 
 ### BackEnd
 
